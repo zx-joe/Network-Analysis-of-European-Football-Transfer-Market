@@ -2,8 +2,6 @@
 
 - A Network Tour of Football Transfer
 
-- Group 23: Saibo Geng,   Olavo Gonçalves Bacelar,   Xiao Zhou,   Clarisse Poupon-Pourchot
-
 - Presentation
   - Soccer is a very popular sport in Europe. At the same time, this attractive event has triggered a series of economic effects each year. During the transfer window, a lot of soccer players transfer from original club to another, which affect both the performance and economic condition of different clubs.
     According to statistics, the European football market is now estimated to be worth €25.5 billion. Upon this, we wonder the connection of this large amount of trade and the features that can influence the transfers. %Therefore, the trade of soccer players is a great potential for 
